@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Paper on Scatter Correction for CBCT accepted"
+title:  "Paper on Scatter Correction for CBCT accepted for publication"
 date:   2020-04-10 10:00:00 +0100
 categories: publications
 ---
 
 ## Good News
-Our paper "A Monte Carlo based scatter removal method for non-isocentric cone-beam CT acquisitions using a deep convolutional autoencoder" got accepted for publication with the Journal of Physics in Medicine & Biology.
+
+Our paper *"A Monte Carlo based scatter removal method for non-isocentric cone-beam CT acquisitions using a deep convolutional autoencoder"* got accepted for publication with the Journal of Physics in Medicine & Biology.
 
 After a long journey, this is my first paper and my first as a (shared) first author.
 
