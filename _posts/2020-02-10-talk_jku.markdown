@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Invited Talk @ JKU"
+date:   2020-02-10 21:33:04 +0100
+categories: talk
+---
+
+I am invited to give a talk about my current research on Scatter Correction for Cone Beam CTs at the Institute for Computational Perception at the JKU Linz on Feb, 13th.
+
+### Title
+"The application of Deep Learning in estimation and correction of Scatter in Cone Beam CTs"
+
+### Abstract of the talk
+Cone-beam computed tomography (CBCT) has numerous advantages over conventional fan-beam CT, like shorter time and less exposure to obtain images. CBCT has found a wide variety of applications in radiotherapy, neurosurgery and other fields. However, CBCT images suffer from low soft-tissue contrast, noise, and artifacts compared to conventional fan-beam CT images. Therefore, it is essential to improve the image quality of CBCTs. In this talk, I will give an overview of the idea of CBCTs, the drawback and the estimation of artifacts caused by scatter and some novel approaches on how to correct them using Deep Learning methods.
