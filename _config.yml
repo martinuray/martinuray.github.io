@@ -21,17 +21,41 @@
 title: Martin Uray
 email: martin [at] uray [dot] at
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site is a platfrom to promote my work and professional carrer.
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 #url: "https://uray.at" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: martinuray
 github_username:  martinuray
+linkedin_username: martinuray
+show_excerpts: false # set to true to show excerpts on the homepage
+
+logo: images/muray.jpg
 
 # Build settings
 theme: minima
 # theme: minimal-mistakes-jekyll
+
+minima:
+  skin: dark
+    # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
 plugins:
   - jekyll-feed
 

@@ -16,7 +16,7 @@ The primary cone-beam computed tomography (CBCT) imaging beam scatters inside th
 
 
 ### Reference
-[A Monte Carlo based scatter removal method for non-isocentric cone-beam CT acquisitions using a deep convolutional autoencoder](https://doi.org/10.1088/1361-6560/ab8954)
+[A Monte Carlo based scatter removal method for non-isocentric cone-beam CT acquisitions using a deep convolutional autoencoder](https://doi.org/10.1088/1361-6560/ab8954){:target="_blank"}
 
 Brent van der Heyden¹, __Martin Uray¹__, Gabriel Paiva Fonseca, Philipp Huber, Defne Us, Ivan Messner, Adam Law, Anastasiia Parii, Niklas Reisz, Ilaria Rinaldi, Gloria Vilches-Freixas, Heinz Deutschmann, Frank Verhaegen, Philipp Steininger
 
