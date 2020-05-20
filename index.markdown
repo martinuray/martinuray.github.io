@@ -5,8 +5,6 @@ title: About
 ---
 
 
-
-
 ![alt text](images/long.jpg)
 
 I am a researcher and lecturer at the [Salzburg University of Applied Sciences (SUAS)](https://www.fh-salzburg.ac.at/en/){:target="_blank"}. Here I am a member of the [Applied Data Science Lab](https://its.fh-salzburg.ac.at/forschung/applied-data-science-lab/){:target="_blank"}. The courses to lecture are in the field of Signal Processing, Applied Mathematics, Machine Learning and Image Processing for the degree programs of [Information Technology & Systems Management](https://www.fh-salzburg.ac.at/en/study/engineering/information-technology-systems-management-master){:target="_blank"} (Bachelor- & Masters-Level) and [Applied Image & Signal Processing](https://aisp-salzburg.ac.at/){:target="_blank"} (Masters-level, Joint Master with the Paris-Lodron University Salzburg).
