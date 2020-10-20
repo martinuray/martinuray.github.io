@@ -33,7 +33,7 @@ Sorry, I am not a Mac user and therefore I have no experience or idea on how to 
 To verify, if you installed python correctly, open a terminal. Under windows enter press the windows key and enter `cmd`+enter.
 When the command line is open, enter `python`. You should see something like:
 
-![Python in commandline](../images/python_installation_tut/cmd.png "Command Line with python started")
+![Python in commandline](https://raw.githubusercontent.com/martinuray/martinuray.github.io/master/images/python_installation_tut/cmd.png "Command Line with python started")
 
 In this window, you can see the version of the python interpreter.
 If the command line prompts an error, where it is said, that the program or executable _python_ could not be found, make sure that the path to the python interpreter was put to the environment variables and/or to the PATH. (you can close the Python interpreter using either CTRL+D or by typing in `exit()`)
@@ -80,7 +80,7 @@ alias venv='source .venv/bin/activate'
 
 In both cases (Windows and Linux), you must have noticed a change in the prompt. Leading, the name of the environment in brackets should be displayed:
 
-![(.venv) before prompt](../images/python_installation_tut/venv_prompt.png "Activated Environment")
+![(.venv) before prompt](https://raw.githubusercontent.com/martinuray/martinuray.github.io/master/images/python_installation_tut/venv_prompt.png "Activated Environment")
 
 When activated the environment, return to the folder by executing `cd ..` twice. Now, you are in your project folder again. This is the place where you should download the notebooks to.
 
@@ -121,7 +121,7 @@ jupyter notebook
 For both cases, a web server will be started. Normally a browser should pop up. If not, you will see an URL displayed. Copy and paste that URL into your browser.
 The started notebook webserver should then look similar to the following
 
-![Jupyter Notebook](../images/python_installation_tut/jupyter_notebook.png "Jupyter Notebook")
+![Jupyter Notebook](https://raw.githubusercontent.com/martinuray/martinuray.github.io/master/images/python_installation_tut/jupyter_notebook.png "Jupyter Notebook")
 
 
 ## PyCharm IDE
