@@ -15,9 +15,16 @@ My current research is still a todo.
 
 ## Teaching
 For course materials please be referred to the official platforms.
-- (Spring 2020) AISM2DSPPT - Digital Signal Processing 2 Project
-- (Spring 2020) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2 Lab
-- (Spring 2020) ITSB2EPHLB - Experimental Physics Lab
+- (WS 2020) AISM1DSPPT - Digital Signal Processing 1 Project
+- (WS 2020) AISM1HOSIL - Hardware Oriented Signal Processing 1
+- (WS 2020) AISM1DSPIL/ITSM1DSVIL - Digital Signal Processing 1 Lab
+- (WS 2020) ITSB5DAPIL - Data Analysis with Python
+
+
+Previous:
+- (SS 2020) AISM2DSPPT - Digital Signal Processing 2 Project
+- (SS 2020) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2 Lab
+- (SS 2020) ITSB2EPHLB - Experimental Physics Lab
 
 
 ## Publications
