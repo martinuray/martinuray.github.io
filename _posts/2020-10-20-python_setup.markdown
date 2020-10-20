@@ -12,7 +12,7 @@ Feedback is very welcome and appreciated. Just send me a mail on the mail addres
 
 ## Installation of the Python Interpreter
 
-### Under Windows
+### Windows
 The first thing you need is the python interpreter itself. Go to the download page of [python.org](https://www.python.org/downloads/) and download an appropriate version. At the time of writing this post, I prefer using python 3.8.
 
 __Attention:__ do not download and install Python 2.X! Python2 is _end-of-life_ and differs significantly, also in syntax and functionality, from the state-of-the-art Python3.X.
@@ -23,7 +23,7 @@ Next, you are asked what optional features to install. Here check at least _pip_
 
 The advanced options offer additional options. Here, check the checkbox _Add Python to environment variables_. Then you can proceed to the installation.
 
-### Under Linux
+### Linux
 This is highly dependent on the Linux distribution and the version. If you are a *NIX user, you know to install stuff anyway. 🙂
 
 ### OSX
@@ -38,7 +38,7 @@ When the command line is open, enter `python`. You should see something like:
 In this window, you can see the version of the python interpreter.
 If the command line prompts an error, where it is said, that the program or executable _python_ could not be found, make sure that the path to the python interpreter was put to the environment variables and/or to the PATH. (you can close the Python interpreter using either CTRL+D or by typing in `exit()`)
 
-## Setup of a Python Environment
+## Setup and activation of a Python Environment
 A Python Environment can be considered as a virtual container, in which all packages are installed, that are installed when the environment is activated. The environment is just a folder with the installed components and a dedicated interpreter in there. You will see how this is structured at the end of this section.
 
 To install `virtualenv`, the application managing the environment for us, we also use the command line. For installation, simply call
