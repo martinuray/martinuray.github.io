@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setup for Python in Academia"
-date:   2020-10-20 18:00:00 +0100
+date:   2020-10-20 08:00:00 +0100
 categories: python instruction
 ---
 
@@ -81,6 +81,8 @@ alias venv='source .venv/bin/activate'
 In both cases (Windows and Linux), you must have noticed a change in the prompt. Leading, the name of the environment in brackets should be displayed:
 
 ![(.venv) before prompt](../images/python_installation_tut/venv_prompt.png "Activated Environment")
+
+When activated the environment, return to the folder by executing `cd ..` twice. Now, you are in your project folder again. This is the place where you should download the notebooks to.
 
 
 ## Installation of additional packages
