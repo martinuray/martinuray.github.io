@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setup for Python in Academia"
-date:   2020-10-20 08:00:00 +0100
+date:   2020-10-20 00:00:00 +0100
 categories: python instruction
 ---
 

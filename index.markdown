@@ -14,7 +14,8 @@ Before SUAS, I spent 2 years as a researcher at [medPhoton](https://www.medphoto
 My current research is still a todo.
 
 ## Teaching
-For course materials please be referred to the official platforms.
+For course materials please be referred to the SUAS LMS.
+
 - (WS 2020) AISM1DSPPT - Digital Signal Processing 1 Project
 - (WS 2020) AISM1HOSIL - Hardware Oriented Signal Processing 1
 - (WS 2020) AISM1DSPIL/ITSM1DSVIL - Digital Signal Processing 1 Lab
