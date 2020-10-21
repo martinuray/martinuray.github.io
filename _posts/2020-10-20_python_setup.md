@@ -39,6 +39,9 @@ In this window, you can see the version of the python interpreter.
 If the command line prompts an error, where it is said, that the program or executable _python_ could not be found, make sure that the path to the python interpreter was put to the environment variables and/or to the PATH. (you can close the Python interpreter using either CTRL+D or by typing in `exit()`)
 
 ## Setup of a Python Environment
+
+_Note:_ in this tutorial `pip` and `virtualenv` are used. This is a personal preference, without any deeper reason. Alternatively, [_conda_](https://docs.conda.io/en/latest/) or [_miniconda_](https://docs.conda.io/en/latest/miniconda.html) can be used as well.
+
 A Python Environment can be considered as a virtual container, in which all packages are installed, that are installed when the environment is activated. The environment is just a folder with the installed components and a dedicated interpreter in there. You will see how this is structured at the end of this section.
 
 To install `virtualenv`, the application managing the environment for us, we also use the command line. For installation, simply call
@@ -129,3 +132,5 @@ If you don't really like working in a browser and you like the convenience of a 
 Lucky you (at least if you are a student), _PyCharm_ offers free Edu-licences. Simply go to the [_PyCharm_](https://www.jetbrains.com/de-de/pycharm/download/) website and create an account. There you can request the Edu-licence. When installing the Professional version you need to enter your credentials to be able to use those features.
 
 In _PyCharm_ you then have a side-by-side view with code (looks like a section python script) and the live converter and rendered notebook. For more information on notebooks in _PyCharm_ please visit [this link](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html#get-started).
+
+A further very convenient asset, is that _PyCharm_ handles the environments for you, as well as the package handling. For more information on this, please be referred to [the official docs](https://www.jetbrains.com/help/pycharm/).
