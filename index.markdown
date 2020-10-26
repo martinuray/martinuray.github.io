@@ -31,6 +31,9 @@ For requests on supervision for Bachelor- and Master Theses, please reach out to
 ## Research
 My current research is concerned with natural machine translation, natural language processing and reinforcment learning.
 
+### Projects
+Currently I am only working in the InterReg funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/).
+
 ### Publications
 see [Publications](publications/),
  [Google Scholar](https://scholar.google.com/citations?user=rZqsvrMAAAAJ&hl=en){:target="_blank"}
