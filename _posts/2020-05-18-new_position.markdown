@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Changes in my carrer"
+title:  "Changes in my career"
 date:   2020-05-18 08:00:00 +0100
 categories: carrer
 ---
