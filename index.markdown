@@ -29,7 +29,7 @@ For course materials please be referred to the SUAS LMS.
 For requests on supervision for Bachelor- and Master Theses, please reach out to me via e-mail, stating your field of interest, a possible topic, or the company the internship is conducted at. Even if your idea of the topic is not that clear at the moment, still reach out to me if you are interested in working with me. The topic can be refined/adjusted together.
 
 ## Research
-My current research is concerned with natural machine translation, natural language processing and reinforcment learning.
+My current research is concerned with natural machine translation, natural language processing, deep learning, and reinforcment learning.
 
 ### Projects
 Currently I am only working in the InterReg funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/).
