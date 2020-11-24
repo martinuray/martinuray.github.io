@@ -5,6 +5,8 @@ date:   2020-10-21 00:00:00 +0100
 categories: python instruction
 ---
 
+**UPDATE 2020-11-24:** Added a section to describe how to use batch files/aliases with jupyter 
+
 For most of my courses at SUAS, Python is the main programming/scripting language to use. This blog post is intended to serve as a tutorial for my students and all other interested. This tutorial does not provide a lot of insights on "why?", it should one only guide through the installation process to a working environment with a Jupyter notebook.
 
 Feedback is very welcome and appreciated. Just send me a mail on the mail address shown in the footer.
@@ -126,6 +128,51 @@ The started notebook webserver should then look similar to the following
 
 ![Jupyter Notebook](https://raw.githubusercontent.com/martinuray/martinuray.github.io/master/images/python_installation_tut/jupyter_notebook.png "Jupyter Notebook")
 
+
+## Help! I do not want to use the terminal all the time
+For some this is quite anoying: one always has to start the terminal, navigate to the directory, start the environment, ...
+
+In order to avoid this stupid repeating process, one could simply create some helper functions! In the following, depending on the OS, different methods are illustrated.
+
+### Linux
+First of all, on Linux, one is very likely to use the command line. The following aliases need to be put into the `.bash_aliases` file of the user's home directory.
+
+```bash
+$ cat ~/.bash_aliases 
+alias mkvenv='virtualenv .venv'
+alias venv='source .venv/bin/activate'
+alias jupyterinstall='~/config_directory/jupyter_install.sh'
+```
+
+The first of those three commands simply creates a new virtual environment with the name `.venv` in the current directory. Then, using the command `venv` (no period here), one can activate the virtual environment in the current directory (if one is present). The third one specifies a call to a bash file. In this bash file, one could put all necessary dependencies and packages to install. An exemplary implementation could be:
+
+```bash
+$ cat ~/config_directory/jupyter_install.sh
+pip install jupyter==1.0.0
+pip install jupyterlab==2.2.9
+```
+The last one may be helpfull if one has to create environments with jupyter repeatedly. 
+
+### Windows
+On Windows, the command line (at least in the opinion of the author) is not as easy to use and intuitive as in Linux. Hence one could create batch scripts to activate the environments.
+
+An exemplary batch file is shown below. In this case, this file is located in the directory where the environment is located.
+
+```Batch
+D:
+cd D:\Users\me\SUAS\DL\.venv\Scripts
+call activate.bat
+cd D:\Users\me\SUAS\DL
+call jupyter notebook
+pause
+```
+
+This batch file does the same, as one would do on the command line. It changes the directory to the `Script` location of the used virtual environment, calls the `activate.bat` script, changes to the root directory of the project, and starts the jupyter notebook. The pause forces popped up the terminal to be present till it is closed by the user.
+
+For further convenience, a shortcut to this file can be put on the Desktop. This desktop can then be modified by setting an icon of choice.
+
+
+![Desktop Shortcut](https://raw.githubusercontent.com/martinuray/martinuray.github.io/master/images/python_installation_tut/desktop_shortcut.png "Desktop Shortcut")
 
 ## PyCharm IDE
 If you don't really like working in a browser and you like the convenience of a well optimized IDE, I recommend you install _PyCharm_. For working notebooks, the community edition (the free version) is not sufficient anymore. For this, the commercial Pro version needs to be downloaded.
