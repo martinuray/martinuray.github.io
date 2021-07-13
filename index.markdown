@@ -19,15 +19,15 @@ For course materials please be referred to the SUAS LMS.
 
 
 ### Previous Years
-- (SS21) ITSM2MALIL - Machine Learning Lab
-- (SS21) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2 Lectures and Lab
+- (SS21) ITSM2MALIL - Machine Learning (Lab only)
+- (SS21) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2 (Lectures and Lab)
 - (WS20) AISM1HOSIL - Hardware Oriented Signal Processing 1
-- (WS20) AISM1DSPIL/ITSM1DSVIL - Digital Signal Processing 1 Lab
+- (WS20) AISM1DSPIL/ITSM1DSVIL - Digital Signal Processing 1 (Lab only)
 - (WS20) ITSB5DAPIL - Data Analysis with Python
-- (WS20) ITSM3DELIL - Deep Leaning Lab (Natural Language Processing)
-- (SS20) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2 Lab
-- (SS20) ITSB2EPHLB - Experimental Physics Lab
-- (SS20) ITSB4MSTLB - Measurement and Control Technology Lab
+- (WS20) ITSM3DELIL - Deep Leaning Lab (Lab only)
+- (SS20) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2 (Lab only)
+- (SS20) ITSB2EPHLB - Experimental Physics (Lab only)
+- (SS20) ITSB4MSTLB - Measurement and Control Technology (Lab only)
 
 ### Supervision of Theses
 For requests on supervision for Bachelor- and Master Theses, please reach out to me via e-mail, stating your field of interest, a possible topic, or the company the internship is conducted at. Even if your idea of the topic is not that clear at the moment, still reach out to me if you are interested in working with me. The topic can be refined/adjusted together.
