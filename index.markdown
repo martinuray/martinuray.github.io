@@ -33,7 +33,7 @@ For course materials please be referred to the SUAS LMS.
 For requests on supervision for Bachelor- and Master Theses, please reach out to me via e-mail, stating your field of interest, a possible topic, or the company the internship is conducted at. Even if your idea of the topic is not that clear at the moment, still reach out to me if you are interested in working with me. The topic can be refined/adjusted together.
 
 ## Research
-My current research is concerned with neural machine translation, natural language processing, deep learning, and reinforcment learning.
+My current research is concerned with Neural Machine Translation, Natural Language Processing, Deep Learning, and Reinforcment Learning.
 
 ### Projects
 Currently I am only working in the InterReg funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/).
@@ -44,5 +44,5 @@ see [Publications](publications/),
   and [ResearchGate](https://www.researchgate.net/profile/Martin_Uray){:target="_blank"}.
 
 
-## Invited Talks
+## Talks
 - 2020-02-13 @ JKU Linz, Institute for Computational Perception
