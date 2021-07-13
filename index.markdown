@@ -36,7 +36,11 @@ For requests on supervision for Bachelor- and Master Theses, please reach out to
 My current research is concerned with Neural Machine Translation, Natural Language Processing, Deep Learning, and Reinforcment Learning.
 
 ### Projects
-Currently I am only working in the InterReg funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/).
+
+Since 2020-05 I conduct research in the InterReg Österreich-Bayern funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/).
+
+##### Previous Projects
+- 2018-10 - 2020-04 Eurostars funded project [MEIRS](https://www.era-learn.eu/network-information/networks/eurostars-2/eurostars-cut-off-7/multi-energy-imaging-ring-system) (while beeing with medPhoton GmbH)
 
 ### Publications
 see [Publications](publications/),
