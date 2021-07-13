@@ -12,9 +12,9 @@ Before SUAS, I spent 2 years as a researcher at [medPhoton](https://www.medphoto
 
 ## Teaching
 For course materials please be referred to the SUAS LMS.
-- (WS21) AISM1DSPIL/ITSM1DSVIL - Digital Signal Processing 1 Lab
+- (WS21) AISM1DSPIL/ITSM1DSVIL - Digital Signal Processing 1 (Lab only)
 - (WS21) ITSB5DAPIL - Data Analysis with Python
-- (WS21) ITSM3DELIL - Deep Leaning Lab (Natural Language Processing)
+- (WS21) ITSM3DELIL - Deep Leaning Lab (Lab only)
 - (WS21) AISM1HOSIL - Hardware Oriented Signal Processing 1
 
 
