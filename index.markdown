@@ -37,9 +37,10 @@ My current research is concerned with Neural Machine Translation, Natural Langua
 
 ### Projects
 
-Since 2020-05 I conduct research in the InterReg Österreich-Bayern funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/).
+Since 2021-10 I work on the FFG funded COIN project [Retailization4.0](https://retailization.at/).
 
 ##### Previous Projects
+- 2020-05 - 2021-09 InterReg Österreich-Bayern funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/).
 - 2018-10 - 2020-04 Eurostars funded project [MEIRS](https://www.era-learn.eu/network-information/networks/eurostars-2/eurostars-cut-off-7/multi-energy-imaging-ring-system) (while beeing with medPhoton GmbH)
 
 ### Publications
