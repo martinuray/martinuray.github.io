@@ -4,11 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
+#### 2021
+- [Industrial Application of Artificial Intelligence to the Traveling Salesperson Problem](https://arxiv.org/abs/2109.14392) <br/>
+Michael Lehenauer, Stefan Wintersteller, __Martin Uray__, Stefan Huber<br/>
+arXiv, 2021<br/>
+[[pdf](https://arxiv.org/abs/2109.14392)]
+
 _________________
 #### 2020
 - [A Monte Carlo based scatter removal method for non-isocentric cone-beam CT acquisitions using a deep convolutional autoencoder](https://doi.org/10.1088/1361-6560/ab8954){:target="_blank"}  <br/>
 Brent van der Heyden¹, __Martin Uray¹__, Gabriel Paiva Fonseca, Philipp Huber, Defne Us, Ivan Messner, Adam Law, Anastasiia Parii, Niklas Reisz, Ilaria Rinaldi, Gloria Vilches-Freixas, Heinz Deutschmann, Frank Verhaegen², Philipp Steininger²<br/>
-Physics in Medicine & Biology, 2020  <br/>  <br/>
+Journal for Physics in Medicine & Biology, 2020  <br/>  <br/>
 ¹ ² contributed equally, respectively
 
 _________________
