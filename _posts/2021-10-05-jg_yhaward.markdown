@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jugendrotkreuz Jugendgruppe Salzburg-Stadt sind Young Humanitarian Heros 2020"
+title:  "Jugendrotkreuz Jugendgruppe Salzburg-Stadt ist Young Humanitarian Hero 2020"
 date:   2021-10-06 11:50:00 +0100
 categories: social redcross
 ---
