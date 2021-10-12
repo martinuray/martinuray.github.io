@@ -3,12 +3,18 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+_________________
 
 #### 2021
+- [Beyond Desktop Computation: Challenges in Scaling a GPU Infrastructure](https://arxiv.org/abs/2109.14392) <br/>
+__Martin Uray__, Eduard Hirsch, Gerold Katzinger, Michael Gadermayr<br/>
+To appear in Proceedings of the 4th International Data Science Conference - iDSC2021, October 2021 (Industry Track)<br/>
+[[preprint](https://arxiv.org/abs/2110.05156)][slides]
+
 - [Industrial Application of Artificial Intelligence to the Traveling Salesperson Problem](https://arxiv.org/abs/2109.14392) <br/>
 Michael Lehenauer, Stefan Wintersteller, __Martin Uray__, Stefan Huber<br/>
-arXiv, 2021<br/>
-[[pdf](https://arxiv.org/abs/2109.14392)]
+arXiv, September 2021<br/>
+[[preprint](https://arxiv.org/abs/2109.14392)]
 
 _________________
 #### 2020
