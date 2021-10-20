@@ -14,7 +14,7 @@ Before SUAS, I spent 2 years as a researcher at [medPhoton](https://www.medphoto
 For course materials please be referred to the SUAS LMS.
 - (WS21) AISM1DSPIL/ITSM1DSVIL - Digital Signal Processing 1 (Lab only)
 - (WS21) ITSB5DAPIL - Data Analysis with Python
-- (WS21) ITSM3DELIL - Deep Leaning Lab (Lab only)
+- (WS21) ITSM3DELIL - Deep Learning Lab (Lab only)
 - (WS21) AISM1HOSIL - Hardware Oriented Signal Processing
 
 
@@ -24,7 +24,7 @@ For course materials please be referred to the SUAS LMS.
 - (WS20) AISM1HOSIL - Hardware Oriented Signal Processing 1
 - (WS20) AISM1DSPIL/ITSM1DSVIL - Digital Signal Processing 1 (Lab only)
 - (WS20) ITSB5DAPIL - Data Analysis with Python
-- (WS20) ITSM3DELIL - Deep Leaning Lab (Lab only)
+- (WS20) ITSM3DELIL - Deep Learning Lab (Lab only)
 - (SS20) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2 (Lab only)
 - (SS20) ITSB2EPHLB - Experimental Physics (Lab only)
 - (SS20) ITSB4MSTLB - Measurement and Control Technology (Lab only)
@@ -33,7 +33,7 @@ For course materials please be referred to the SUAS LMS.
 For requests on supervision for Bachelor- and Master Theses, please reach out to me via e-mail, stating your field of interest, a possible topic, or the company the internship is conducted at. Even if your idea of the topic is not that clear at the moment, still reach out to me if you are interested in working with me. The topic can be refined/adjusted together.
 
 ## Research
-My current research is concerned with Neural Machine Translation, Natural Language Processing, Deep Learning, and Reinforcment Learning.
+My current research is concerned with Neural Machine Translation, Natural Language Processing, Deep Learning, and Reinforcement Learning.
 
 ### Projects
 
@@ -50,4 +50,5 @@ see [Publications](publications/),
 
 
 ### Talks
+- 2021-10-20 @ iDSC'21, International Data Science Conference 2021, Vienna (Online)
 - 2020-02-13 @ JKU Linz, Institute for Computational Perception
