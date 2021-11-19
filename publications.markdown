@@ -7,7 +7,7 @@ permalink: /publications/
 - Beyond Desktop Computation: Challenges in Scaling a GPU Infrastructure <br/>
 __Martin Uray__, Eduard Hirsch, Gerold Katzinger, Michael Gadermayr<br/>
 To appear in Proceedings of the 4th International Data Science Conference - iDSC2021, October 2021 (Industry Track)<br/>
-[[preprint]](https://arxiv.org/abs/2110.05156){:target="_blank"}[[slides]](https://uray.at/downloads/publications/idsc2021_presentation.pdf){:target="_blank"}
+[[preprint]](https://arxiv.org/abs/2110.05156){:target="_blank"}[[talk]](https://youtu.be/67dDyaZ-riU?t=157){:target="_blank"}[[slides]](https://uray.at/downloads/publications/idsc2021_presentation.pdf){:target="_blank"}
 
 - Industrial Application of Artificial Intelligence to the Traveling Salesperson Problem<br/>
 Michael Lehenauer, Stefan Wintersteller, __Martin Uray__, Stefan Huber<br/>
