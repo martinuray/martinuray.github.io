@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+
+- ICM-Konzept für die multimediale Kursgestaltung zur Förderung eineflexibleren Zeitmanagements unter Anwendung von Blended Learnin<br/>
+__Martin Uray__, Isabella K. Krall <br/>
+To appear in the proceedings of the Conference _Inverted Classroom and beyond 2022_, Paderborn, Germany (Online), February 2022 (Abstract)<br/>
+[Poster]
+
 - Beyond Desktop Computation: Challenges in Scaling a GPU Infrastructure <br/>
 __Martin Uray__, Eduard Hirsch, Gerold Katzinger, Michael Gadermayr<br/>
 To appear in Proceedings of the 4th International Data Science Conference - iDSC2021, October 2021 (Industry Track)<br/>
