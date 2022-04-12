@@ -11,9 +11,9 @@ permalink: /publications/
 - ICM-Konzept für die multimediale Kursgestaltung zur Förderung eines flexibleren Zeitmanagements unter Anwendung von Blended Learnig<br>
   **Martin Uray**, Isabella K. Krall<br>
   Conference _Inverted Classroom and beyond 2022_, Paderborn, Germany (Online), February 2022 (Abstract)<br>
-  [[poster]](https://uray.at/downloads/publications/icmb2022_poster.pdf){:target="_blank"}
+  [[poster]](https://uray.at/downloads/publications/icmb2022_poster.pdf){:target="_blank"}[[project website]](https://its.fh-salzburg.ac.at/index.php?id=519){:target="_blank"}
 
-- [Beyond Desktop Computation: Challenges in Scaling a GPU Infrastructure](https://doi.org/10.1007/978-3-658-36295-9_11)<br>
+- [Beyond Desktop Computation: Challenges in Scaling a GPU Infrastructure](https://doi.org/10.1007/978-3-658-36295-9_11){:target="_blank"}<br>
   **Martin Uray**, Eduard Hirsch, Gerold Katzinger, Michael Gadermayr<br>
   In Proceedings of the 4th International Data Science Conference - iDSC2021, October 2021 (Industry Track)<br>
   [[preprint]](https://arxiv.org/abs/2110.05156){:target="_blank"}[[talk]](https://youtu.be/67dDyaZ-riU?t=157){:target="_blank"}[[slides]](https://uray.at/downloads/publications/idsc2021_presentation.pdf){:target="_blank"}
