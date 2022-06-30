@@ -46,11 +46,11 @@ Since 2022 I am part of _The Josef Ressel Center on Intelligent and Secure Indus
 - 2020-05 - 2021-09 InterReg Österreich-Bayern funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/){:target="_blank"}.
 - 2018-10 - 2020-04 Eurostars funded project [MEIRS](https://www.era-learn.eu/network-information/networks/eurostars-2/eurostars-cut-off-7/multi-energy-imaging-ring-system){:target="_blank"} (while beeing with medPhoton GmbH)
 
-## Publications
+### Publications
 
 see [Publications](publications/), [Google Scholar](https://scholar.google.com/citations?user=rZqsvrMAAAAJ&hl=en){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Martin_Uray){:target="_blank"}.
 
-## Talks
+### Talks
 
 - 2021-10-20 @ iDSC'21, International Data Science Conference 2021, Vienna (Online)
 - 2020-02-13 @ JKU Linz, Institute for Computational Perception
