@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-- Improvements for mlrose applied to the Traveling Salesperson Problem<br>
+- [Improvements for mlrose applied to the Traveling Salesperson Problem](https://eurocast2022.fulp.ulpgc.es/sites/default/files/Eurocast_2022_Extended_Abstract_Book.pdf){:target="_blank"}<br>
   Michael Lehenauer, Stefan Wintersteller, **Martin Uray**, Stefan Huber<br>
   Eurocast 2022 Workshop on _Systems in Industrial Robotics, Automation and IoT_, February 2022<br>
 

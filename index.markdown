@@ -11,43 +11,46 @@ I am a researcher and lecturer at the [Salzburg University of Applied Sciences (
 
 For course materials please be referred to the SUAS LMS.
 
-- (SS22) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2
-- (SS22) ITSM2MALIL - Machine Learning
+- (WS22) AISM3RILIL - Reinforcement Learning :new:
+- (WS22) AISM3ARLIL - Applied Reinforcement Learning :new:
+- (WS22) AISM1HOSIL - Hardware Oriented Signal Processing
+- (WS22) ITSB5DAPIL - Data Analysis with Python
 
 ## Previous Years
 
+- (SS22,SS21) ITSM2MALIL - Machine Learning
+- (SS22,SS21,SS20) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2
 - (WS21,WS20) AISM1DSPIL/ITSM1DSVIL - Digital Signal Processing 1 (Lab only)
 - (WS21,WS20) ITSB5DAPIL - Data Analysis with Python
 - (WS21,WS20) ITSM3DELIL - Deep Learning Lab (Lab only)
 - (WS21,WS20) AISM1HOSIL - Hardware Oriented Signal Processing
-- (SS21) ITSM2MALIL - Machine Learning (Lab only)
-- (SS21) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2
-- (SS20) AISM2DSPIL/ITSM2DSVIL - Digital Signal Processing 2 (Lab only)
 - (SS20) ITSB2EPHLB - Experimental Physics (Lab only)
 - (SS20) ITSB4MSTLB - Measurement and Control Technology (Lab only)
 
-### Supervision of Theses
+## Supervision of Theses
 
 For requests on supervision for Bachelor- and Master Theses, please reach out to me via e-mail, stating your field of interest, a possible topic, or the company the internship is conducted at. Even if your idea of the topic is not that clear at the moment, still reach out to me if you are interested in working with me. The topic can be refined/adjusted together.
 
-## Research
+# Research
 
-My current research is concerned with Neural Machine Translation, Natural Language Processing, Deep Learning, and Reinforcement Learning.
+My current research is focused on artificial intelligence, machine learning and data science applied to the setting of industrial automation.
 
-### Projects
+## Projects
 
-Since 2021-10 I work on the FFG funded COIN project [Retailization4.0](https://retailization.at/).
+Since 2022 I am part of _The Josef Ressel Center on Intelligent and Secure Industrial Automation (ISIA)_. This is a [CDG](https://www.cdg.ac.at/en/){:target="_blank"} funded research center at the Salzburg University of Applied Sciences headed by FH-Prof. Dr. Stefan Huber. It is dedicated to fundamental-driven applied research and expects scientific excellence.
 
-#### Previous Projects
+### Previous Projects
 
-- 2020-05 - 2021-09 InterReg Österreich-Bayern funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/).
-- 2018-10 - 2020-04 Eurostars funded project [MEIRS](https://www.era-learn.eu/network-information/networks/eurostars-2/eurostars-cut-off-7/multi-energy-imaging-ring-system) (while beeing with medPhoton GmbH)
+- 2022-03-2022-06 WISS funded project _DaSuMa_.
+- 2021-10 - 2022-02 COIN funded project [Retailization4.0](https://retailization.at/){:target="_blank"}.
+- 2020-05 - 2021-09 InterReg Österreich-Bayern funded project [DataKMU](https://its.fh-salzburg.ac.at/forschung/forschungsprojekte/suche/datakmu/){:target="_blank"}.
+- 2018-10 - 2020-04 Eurostars funded project [MEIRS](https://www.era-learn.eu/network-information/networks/eurostars-2/eurostars-cut-off-7/multi-energy-imaging-ring-system){:target="_blank"} (while beeing with medPhoton GmbH)
 
-### Publications
+## Publications
 
 see [Publications](publications/), [Google Scholar](https://scholar.google.com/citations?user=rZqsvrMAAAAJ&hl=en){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Martin_Uray){:target="_blank"}.
 
-### Talks
+## Talks
 
 - 2021-10-20 @ iDSC'21, International Data Science Conference 2021, Vienna (Online)
 - 2020-02-13 @ JKU Linz, Institute for Computational Perception

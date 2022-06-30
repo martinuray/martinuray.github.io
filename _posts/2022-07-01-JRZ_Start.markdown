@@ -1,0 +1,12 @@
+---
+layout: post
+title: >-
+  Start the Josef Ressel Center on Intelligent and Secure Industrial Automation
+  (ISIA)
+date: '2022-07-01 11:30:00 +0100'
+categories: research jrz
+---
+
+Happy to share, that - finaly - our research _Josef Ressel Center on Intelligent and Secure Industrial Automation (ISIA)_ officially started. Forward looking to all contributions and experiences we will face within the following years!!
+
+For further information, see the [SUAS website](https://www.fh-salzburg.ac.at/fhs/aktuelles/news/neues-josef-ressel-zentrum-forscht-an-assistenzsystemen-fuer-die-industrieautomatisierung){:target="_blank"} or within [press](https://salzburg.orf.at/stories/3162864/){:target="_blank"}.
